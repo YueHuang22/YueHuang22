@@ -2,6 +2,9 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 - 📫 How to reach me **wongyue22@gmail.com**
+- 📫 LinkedIn: **https://www.linkedin.com/in/yuehuang22/**
+- Location: New York City, New York
+
 
 
 <p align="left">
